@@ -11,4 +11,6 @@ function happyHoliday(day, person){
   `Happy ${day}, ${person}`
 }
 
-function holidayCountdown(day, remain)
+function holidayCountdown(day, remain){
+  `It\'s ${remain} days until ${day}!`
+}
